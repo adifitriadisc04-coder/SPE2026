@@ -1,0 +1,6 @@
+{
+  "name": "SDN Sucopangepok 04 Jember - Official Website & Portal Sekolah",
+  "description": "Website resmi dan portal informasi SDN Sucopangepok 04 Kabupaten Jember Jawa Timur dengan manajemen konten lengkap, memori sekolah, kustomisasi font, jam dan tanggal otomatis, preview mobile/desktop, serta backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
